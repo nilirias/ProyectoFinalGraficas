@@ -1,0 +1,16 @@
+{
+  "name": "ProyectoFinalGraficas",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/nilirias/ProyectoFinalGraficas.git",
+  "author": "Nilirias <sepulvedac.nina@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cannon-es": "^0.20.0",
+    "express": "^4.18.2",
+    "three": "^0.145.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
